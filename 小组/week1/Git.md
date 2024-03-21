@@ -118,6 +118,11 @@
 
 #### 3.4.4其他
 
+- 上传步骤小结
+  - `git add .`
+  - `git commit -m "备注的信息"`
+  - `git push -u origin master`
+
 - 如何修改commit的注释？
   `$ git commit --amend -m "修改的内容"`
 
